@@ -1,2 +1,0 @@
-# BasketBeans
-Erstsemester Spielabgabe
